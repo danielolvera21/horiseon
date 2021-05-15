@@ -2,7 +2,7 @@
 
 ## Description
 
-Horiseon webpage has had it's code edited to fix minor issues, improve readability,
+Horiseon webpage had it's code edited to fix minor issues, improve readability,
 and to meet accessibility standards.
 
 ## Motivation
@@ -25,4 +25,8 @@ and to meet accessibility standards.
 
 ## Screenshots
 
+![title-screenshot](https://user-images.githubusercontent.com/83250389/118346928-71446c80-b4fc-11eb-845d-5341bfa5a2b1.png)
+
 ## Link to Deployed Application
+
+(https://danielolvera21.github.io/horiseon/)

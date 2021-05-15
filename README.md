@@ -25,7 +25,21 @@ and to meet accessibility standards.
 
 ## Screenshots
 
+### Corrected Title
+
 ![title-screenshot](https://user-images.githubusercontent.com/83250389/118346928-71446c80-b4fc-11eb-845d-5341bfa5a2b1.png)
+
+### Header/Jumbotron
+
+![jumbotron-screenshot](https://user-images.githubusercontent.com/83250389/118373978-ccb34080-b576-11eb-81f2-1fd00e186824.png)
+
+### Main section/Aside
+
+![main/aside-screenshot](https://user-images.githubusercontent.com/83250389/118374159-dd17eb00-b577-11eb-82f4-d056cf292881.png)
+
+### Footer
+
+![Footer-screenshot](https://user-images.githubusercontent.com/83250389/118374197-05074e80-b578-11eb-9cd2-7469807ada4d.png)
 
 ## Link to Deployed Application
 
